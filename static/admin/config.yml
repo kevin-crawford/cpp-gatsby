@@ -1,5 +1,5 @@
 backend:
-  name: cpp-gastby
+  name: cpp-gatsby
   repo: kevin-crawford/cpp-gatsby
 media_folder: static/assets
 public_folder: assets
